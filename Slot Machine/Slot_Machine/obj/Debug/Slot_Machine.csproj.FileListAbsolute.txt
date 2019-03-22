@@ -1,0 +1,91 @@
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\NIKOS\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Root\Desktop\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Root\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Admin\Desktop\Slot_Machine0\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Game2.resources
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Mike\Downloads\Slot_Machine 0.5\Slot_Machine\obj\Debug\Slot_Machine.Game3.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Game2.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Game3.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Mike\Documents\Desktop\Slot_Machine 0.7\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Game.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Game2.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Game3.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Options.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\Admin\Desktop\Slot_Machine 0.9\Slot_Machine\obj\Debug\Slot_Machine.Credits.resources
